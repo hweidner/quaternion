@@ -10,7 +10,12 @@ description of their properties.
 This packages provides a type for storing a quaternion and basic calculus
 operations.
 
+The package documentation can be read on godoc.org:  
+[![GoDoc](http://godoc.org/github.com/hweidner/quaternion?status.png)](http://godoc.org/github.com/hweidner/quaternion)
+
+
 Examples
+--------
 
 Some examples of quaternion usage:
 
@@ -32,6 +37,7 @@ Some examples of quaternion usage:
 	prod := x.Mult(y)
 
 Rationale
+---------
 
 All operations are invoked in an object oriented style. They return the
 result (either as type Quaternion or float64).
@@ -42,11 +48,13 @@ y the right operand. The values of x and y are not changed. All methods
 return a value of type float64 or Quaternion.
 
 TODOs
+-----
 
 This package is in an early stage. More functions need to be implemented, e.g.
 power, trigonometry functions.
 
 Copyright and License
+---------------------
 
 Copyright 2013 by Harald Weidner <hweidner@gmx.net>. All rights reserved.
 Use of this source code is governed by the GNU Lesser General Public License
