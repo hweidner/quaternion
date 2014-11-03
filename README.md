@@ -1,7 +1,7 @@
 quaternion
 ==========
 
-The quaternios, a 4-tuple number system.
+The quaternions, a 4-tuple number system.
 
 The quaternions are a 4-tuple number system and an extension to complex
 numbers. See http://en.wikipedia.org/wiki/Quaternion for a definition and
