@@ -30,7 +30,7 @@ Some examples of quaternion usage:
 	// Calculate the sum of two quaternions
 	sum := x.Add(y)
 
-	// Calcualte the product of two quaterions
+	// Calculate the product of two quaterions
 	prod := x.Mult(y)
 
 Rationale

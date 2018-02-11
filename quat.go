@@ -23,7 +23,7 @@ var (
 	qk = Quaternion{0, 0, 0, 1}
 )
 
-// Contructors
+// Constructors
 
 // Null returns the empty quaternion.
 func Null() Quaternion {
