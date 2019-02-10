@@ -3,16 +3,15 @@ quaternion
 
 The quaternions, a 4-tuple number system.
 
+[![GoDoc](https://godoc.org/github.com/hweidner/quaternion?status.svg)](https://godoc.org/github.com/hweidner/quaternion)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hweidner/quaternion)](https://goreportcard.com/report/github.com/hweidner/quaternion)
+
 The quaternions are a 4-tuple number system and an extension to complex
 numbers. See http://en.wikipedia.org/wiki/Quaternion for a definition and
 description of their properties.
 
 This packages provides a type for storing a quaternion and basic calculus
 operations.
-
-The package documentation can be read on godoc.org:  
-[![GoDoc](http://godoc.org/github.com/hweidner/quaternion?status.png)](http://godoc.org/github.com/hweidner/quaternion)
-
 
 Examples
 --------
