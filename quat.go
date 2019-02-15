@@ -6,7 +6,7 @@ package quaternion
 
 import "math"
 
-// The version number of package quaternion.
+// VERSION is the version number of package quaternion.
 const VERSION = "0.1"
 
 // Quaternion stores a quaternion as a 4-tuple of float64.
