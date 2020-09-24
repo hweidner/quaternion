@@ -5,6 +5,7 @@ The quaternions, a 4-tuple number system.
 
 [![GoDoc](https://godoc.org/github.com/hweidner/quaternion?status.svg)](https://godoc.org/github.com/hweidner/quaternion)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hweidner/quaternion)](https://goreportcard.com/report/github.com/hweidner/quaternion)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/hweidner/quaternion.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hweidner/quaternion/alerts/)
 
 The quaternions are a 4-tuple number system and an extension to complex
 numbers. See http://en.wikipedia.org/wiki/Quaternion for a definition and
