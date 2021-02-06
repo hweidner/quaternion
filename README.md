@@ -3,7 +3,9 @@ quaternion
 
 The quaternions, a 4-tuple number system.
 
-[![GoDoc](https://godoc.org/github.com/hweidner/quaternion?status.svg)](https://godoc.org/github.com/hweidner/quaternion)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![GoDocs](https://godocs.io/github.com/hweidner/quaternion?status.svg)](https://godocs.io/github.com/hweidner/quaternion)
+[![Go Reference](https://pkg.go.dev/badge/github.com/hweidner/quaternion.svg)](https://pkg.go.dev/github.com/hweidner/quaternion)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hweidner/quaternion)](https://goreportcard.com/report/github.com/hweidner/quaternion)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/hweidner/quaternion.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hweidner/quaternion/alerts/)
 
