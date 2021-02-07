@@ -1,20 +1,18 @@
-quaternion
-==========
-
-The quaternions, a 4-tuple number system.
-
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GoDocs](https://godocs.io/github.com/hweidner/quaternion?status.svg)](https://godocs.io/github.com/hweidner/quaternion)
 [![Go Reference](https://pkg.go.dev/badge/github.com/hweidner/quaternion.svg)](https://pkg.go.dev/github.com/hweidner/quaternion)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hweidner/quaternion)](https://goreportcard.com/report/github.com/hweidner/quaternion)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/hweidner/quaternion.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hweidner/quaternion/alerts/)
+
+quaternion
+==========
 
 The quaternions are a 4-tuple number system and an extension to complex
 numbers. See http://en.wikipedia.org/wiki/Quaternion for a definition and
 description of their properties.
 
 This packages provides a type for storing a quaternion and basic calculus
-operations.
+operations for Go.
 
 Examples
 --------
@@ -58,10 +56,5 @@ power, trigonometry functions.
 Copyright and License
 ---------------------
 
-Copyright 2013 by Harald Weidner <hweidner@gmx.net>. All rights reserved.
-Use of this source code is governed by the GNU Lesser General Public License
-Version 3 that can be found in the LICENSE file.
-
-This package is released under the GNU Lesser General Public License, Version
-3. The full license text can be found in the LICENSE file of the source code
-distribution.
+This package is released under the MIT license.
+The full license text can be found in the [LICENSE](LICENSE) file.
